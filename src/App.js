@@ -6,7 +6,7 @@ import './App.css';
 function App() {
     const [data, setData] = useState([]);
 
-    // Fetch product data from backend
+    //  product data from backend
     useEffect(() => {
         const fetchData = async () => {
             try {
@@ -91,7 +91,7 @@ function App() {
     return (
         <div className="App">
             <h1>Product Inventory</h1>
-            {/* Filter input removed */}
+         
             <table {...getTableProps()} className="table">
                 <thead>
                     {headerGroups.map(headerGroup => (
