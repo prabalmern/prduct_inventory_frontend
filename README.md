@@ -7,8 +7,8 @@ Ensure you have [React](https://reactjs.org/) and [Node.js](https://nodejs.org/)
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/prabalmern/product_inventory_frontend.git
+  
+   git clone https://github.com/prabalmern/prduct_inventory_frontend.git
 
 
 
