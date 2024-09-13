@@ -1,0 +1,29 @@
+/* Example styles in App.css */
+.search-input {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+}
+
+.pagination {
+  margin-top: 1rem;
+}
+
+.buttons {
+  margin-top: 1rem;
+}
+
+.buttons button {
+  margin-right: 0.5rem;
+}
